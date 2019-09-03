@@ -1,0 +1,27 @@
+# Custom
+/nbproject
+.idea
+/build
+*.sublime-project
+*.sublime-workspace
+.TODO*
+.history
+/db*
+*~
+*.priv*
+*.sql*
+
+/pages/*
+!/pages/index.html.twig
+/var/
+/vendor/
+/.web-server-pid
+/node_modules/
+
+/.phpcs-cache
+/phpcs.xml
+/.php_cs
+/.php_cs.cache
+.phpunit
+/phpunit.xml
+.phpunit.result.cache

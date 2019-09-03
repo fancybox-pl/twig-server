@@ -1,0 +1,17 @@
+{
+    "name": "fancybox/twig-server",
+    "type": "project",
+    "require": {
+        "twig/twig": "^2.11",
+        "twig/extensions": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Konrad Mietelski",
+            "email": "k.mietelski@fancybox.pl"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^4.3"
+    }
+}
